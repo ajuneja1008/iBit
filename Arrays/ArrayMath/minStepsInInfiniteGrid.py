@@ -1,4 +1,4 @@
-# The minimum steps required is the maximum absolute value of X,Y coordinates
+# The minimum steps required is the maximum absolute difference of X,Y coordinates sequentially
 
 class Solution:
 	# @param A : list of integers
